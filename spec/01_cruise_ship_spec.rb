@@ -1,4 +1,4 @@
-require_relative "/hash-iteration-online-web-sp-000/lib/cruise_ship.rb"
+require_relative "hash-iteration-online-web-sp-000/lib/cruise_ship.rb"
 
 
 describe "#select_winner" do
