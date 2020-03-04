@@ -1,4 +1,4 @@
-require_relative "/home/placid-monitor-4191/hash-iteration-online-web-sp-000/spec/cruise_ship.rb"
+require_relative "/home/placid-monitor-4191/hash-iteration-online-web-sp-000/lib/cruise_ship.rb"
 
 
 describe "#select_winner" do
